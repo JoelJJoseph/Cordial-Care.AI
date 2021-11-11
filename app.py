@@ -8,6 +8,7 @@ import keras
 
 from PIL import Image, ImageOps
 import numpy as np
+from img_classification import teachable_machine_classification # import your app modules here
 app = MultiApp()
 
 new_title = '<p style="font-family:sans-serif; color:Black; font-size: 52px;"><b>Cordial Care.AI</b></p>'

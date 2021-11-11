@@ -1,4 +1,3 @@
-import tensorflow as tf
 import streamlit as st
 
 class MultiApp:

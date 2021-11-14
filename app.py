@@ -16,7 +16,7 @@ st.markdown(new_title, unsafe_allow_html=True)
 
 # Add all your application here
 app.add_app("Cordial care.AI", gloww.app)
-app.add_app("Alzhemiers Allergy", alz.app)
+app.add_app("Alzhemiers ", alz.app)
 app.add_app("Chest cancer", chest.app)
 app.add_app("Lung cancer", lung.app)
 app.add_app("Skin cancer", skin.app)

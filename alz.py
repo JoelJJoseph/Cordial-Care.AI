@@ -1,7 +1,12 @@
 import streamlit as st
-import base64
 from PIL import Image
-
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras.optimizers import RMSprop
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from PIL import Image, ImageOps
+import numpy as np
+import base64
 
 def app():
     st.title(' ')
@@ -79,7 +84,8 @@ def app():
         NonDemented= (label[0][2])
         VeryMildDemented= (label[0][3])
         if MildDemented >= 0.6:
-         st.title("It is Mild Demented")
+            st.markdown(new_title, unsafe_allow_html=True)
+            st.title("It is Mild Demented")
         elif ModerateDemented >= 0.6:
             st.title("It is Moderate Demented")
         elif NonDemented >= 0.6:

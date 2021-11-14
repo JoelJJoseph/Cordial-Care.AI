@@ -4,7 +4,6 @@ from multiapp import MultiApp
 
 import base64
 from PIL import Image
-import keras
 import gloww, alz, chest, lung, skin
 
 from PIL import Image, ImageOps

@@ -78,6 +78,6 @@ var randomString = Array.apply(null, Array(stringLength)).map(pickRandom).join('
 </body>
 </html>"""
 ,
-    height=600
+    height=1000
 )   
     

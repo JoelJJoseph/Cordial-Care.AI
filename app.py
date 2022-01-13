@@ -10,7 +10,7 @@ from PIL import Image, ImageOps
 import numpy as np
 app = MultiApp()
 
-new_title = '<p style="font-family:sans-serif; color:Black; font-size: 52px;"><b>Cordial Care.AI</b></p>'
+new_title = '<p style="font-family:sans-serif; color:Black; font-size: 52px;"><b>Refug Assist.AI</b></p>'
 st.markdown(new_title, unsafe_allow_html=True)
 
 

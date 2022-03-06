@@ -79,30 +79,39 @@ Add more ML model and create dashboard for the management system.
 Login to system
 
 ![image](https://user-images.githubusercontent.com/72274851/156927706-3b94164e-3c5c-4e64-b17a-fe34398d89b7.png)
+
 Dashboard Section: Dashboard section provides as total data about Cordial care, how many people registered
 
 ![image](https://user-images.githubusercontent.com/72274851/156927709-8ce97b62-b6ce-4941-8282-4c3741dc1cd6.png)
+
 Doctor registermsection:Doctor register section helps to fill in the details of the doctor 
 
 ![image](https://user-images.githubusercontent.com/72274851/156927717-a352ad51-9b04-455b-b79c-673392ad1641.png)
+
 Other staffs register section:Other staffs register section helps to fill in the details of the staffs
 
 ![image](https://user-images.githubusercontent.com/72274851/156927721-2cf52bb2-b281-45d1-b95c-c1787a36eda7.png)
+
 Doctors Available:This section shows Different departments available
 
 ![image](https://user-images.githubusercontent.com/72274851/156927727-ec1cecab-760e-4548-8bd8-817a6cfddcfc.png)
+
 Current appointment section:This section shows the details of the appointment
 
 ![image](https://user-images.githubusercontent.com/72274851/156927735-901856b3-a964-49e3-848f-0aea6c2434ef.png)
+
 Bill History section:This section shows the Bill history 
 
 ![image](https://user-images.githubusercontent.com/72274851/156927738-ead7ab62-f036-4184-ae63-e421f08e7e51.png)
+
 Treatment History section:This section shows the Treatment history
 
 ![image](https://user-images.githubusercontent.com/72274851/156927743-87d271be-9989-4496-84ec-d329bea26bce.png)
+
 Feedback: This form allows to give feedback to the doctor. 
 
 ![image](https://user-images.githubusercontent.com/72274851/156927754-657e4e60-6720-443a-b2cf-5f09bfce6321.png)
+
 Doctor view: History of treated patients
 
 
